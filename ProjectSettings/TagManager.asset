@@ -18,6 +18,7 @@ TagManager:
   - VEG7
   - VEG8
   - POWERUP
+  - STAR
   layers:
   - Default
   - TransparentFX

@@ -17,7 +17,7 @@ public class DestroyOutOfBounds : MonoBehaviour
     void Update()
     {
 
-
+        //IN HERE WE ARE CRATING A RANGE IN WHICH THE GAMEOBJECT MUST BE DELETED 
         if(transform.position.z > topBound) 
         {
 
